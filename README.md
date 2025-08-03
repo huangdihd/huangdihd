@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a high school student from China.Welcome to my personal profile!
+
 <!--
 **huangdihd/huangdihd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
