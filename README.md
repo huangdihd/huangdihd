@@ -42,16 +42,18 @@ Welcome to my GitHub profile! 🚀
 </p>
 
 ---
+### 💬 My coding philosophies
 
-### 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:hd20100104@163.com)hd20101004@163.com
-[![QQ](https://img.shields.io/badge/-QQ-12B2E8?style=flat&logo=qq&logoColor=white)](tencent://message/?Uin=2577467096&Site=&Menu=yes)2577467096
-[![Profile views](https://komarev.com/ghpvc/?username=huangdihd&color=ff69b4&style=flat)](https://github.com/huangdihd)
+> The kernel code should handle things without explicit purpose.
+
+> Nesting is the worst evil when you're coding!
+
+> “Code is like humor. When you \*have\* to explain it, it’s bad.” 😎 — Cory House
 
 ---
-
-### 💬 Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😎 — Cory House
+### 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:hd20100104@163.com)hd20101004@163.com  
+[![QQ](https://img.shields.io/badge/-QQ-12B2E8?style=flat&logo=qq&logoColor=white)](tencent://message/?Uin=2577467096&Site=&Menu=yes)257467096  
+[![Profile views](https://komarev.com/ghpvc/?username=huangdihd&color=ff69b4&style=flat)](https://github.com/huangdihd)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
