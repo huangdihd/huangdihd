@@ -53,7 +53,7 @@ Welcome to my GitHub profile! 🚀
 ---
 ### 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:hd20100104@163.com)hd20101004@163.com  
-[![QQ](https://img.shields.io/badge/-QQ-12B2E8?style=flat&logo=qq&logoColor=white)](tencent://message/?Uin=2577467096&Site=&Menu=yes)257467096  
+[![QQ](https://img.shields.io/badge/-QQ-12B2E8?style=flat&logo=qq&logoColor=white)](tencent://message/?Uin=2577467096&Site=&Menu=yes)2577467096  
 [![Profile views](https://komarev.com/ghpvc/?username=huangdihd&color=ff69b4&style=flat)](https://github.com/huangdihd)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
