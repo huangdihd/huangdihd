@@ -27,12 +27,12 @@ Welcome to my GitHub profile! 🚀
   <a href="https://github.com/huangdihd/archdeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangdihd&repo=archdeb&theme=radical" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/huangdihd/dishaoplugin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangdihd&repo=dishaoplugin&theme=radical" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/huangdihd/android_device_famue_bf66">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangdihd&repo=android_device_famue_bf66&theme=radical" />
   </a>
