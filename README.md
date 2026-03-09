@@ -48,6 +48,5 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huangdihd&show_icons=true&theme=transparent&hide_border=true&title_color=4FC08D&icon_color=4FC08D" alt="huangdihd's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangdihd&layout=compact&theme=transparent&hide_border=true&title_color=4FC08D" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangdihd&theme=transparent&hide_border=true&title_color=4FC08D&icon_color=4FC08D&date_format=Y-m-d" alt="huangdihd's GitHub Streak" />
 </div>
