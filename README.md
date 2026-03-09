@@ -7,8 +7,9 @@
 ### 🛠️ About Me
 
 * 🤖 Currently developing **xinbot**, a lightweight, plug-in based Minecraft bot using Java.
+* 🦀 Expanding my systems programming toolkit by currently learning **Rust**.
 * 📱 Deep diving into **Android kernel modification** (compiling for OnePlus & Xiaomi) and exploring root solutions like KernelSU, APatch, and Magisk.
-* 💻 Working across the stack, building tools ranging from MicroPython GUIs and Python automation scripts to Vue/Nuxt web projects.
+* 💻 Working seamlessly across both **macOS** and **Windows** environments, building tools ranging from MicroPython GUIs to Vue/Nuxt web projects.
 * ⚙️ Fascinated by computer hardware, ARM architectures, and optimizing legacy processors.
 * 🎵 Fun fact: When I'm compiling kernels or writing code, I'm usually listening to *lasah* or *sasakure.UK*.
 
@@ -30,15 +31,20 @@
 ### 💻 Tech Stack & Tools
 
 **Languages:**<br>
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Web Development:**<br>
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-**Systems & Mobile:**<br>
+**Systems, Mobile & OS:**<br>
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux Kernel](https://img.shields.io/badge/-Linux%20Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white)
