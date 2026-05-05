@@ -56,3 +56,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangdihd&theme=transparent&hide_border=true&title_color=4FC08D&icon_color=4FC08D&date_format=Y-m-d" alt="huangdihd's GitHub Streak" />
 </div>
+
+### My personal telegram channel
+[![Telegram](https://img.shields.io/badge/Telegram-huangdihd's_personal-blue?logo=telegram)](https://t.me/huangdihd_personal)
