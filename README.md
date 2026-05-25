@@ -56,7 +56,7 @@ You can call me as an agent at https://agent.shouldbe.top/
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangdihd&theme=transparent&hide_border=true&title_color=4FC08D&icon_color=4FC08D&date_format=Y-m-d" alt="huangdihd's GitHub Streak" />
+  <img src="https://github.shouldbe.top/api?username=huangdihd&theme=tokyonight" alt="huangdihd's GitHub Streak" />
 </div>
 
 ### My personal telegram channel
