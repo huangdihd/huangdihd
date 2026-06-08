@@ -1,30 +1,24 @@
 <h1 align="center">Hi there, I'm huangdihd! 👋</h1>
 
 <p align="center">
-  A passionate developer exploring the depths of software and hardware, from building web applications to tinkering with Android kernels.
+  一个自认为对项目设计有理解的高中生
 </p>
 
 ### 🛠️ About Me
 
-* 🤖 Currently developing **xinbot**, a lightweight, plug-in based Minecraft bot using Java.
-* 🦀 Expanding my systems programming toolkit by currently learning **Rust**.
-* 📱 Deep diving into **Android kernel modification** (compiling for OnePlus & Xiaomi) and exploring root solutions like KernelSU, APatch, and Magisk.
-* 💻 Working seamlessly across both **macOS** and **Windows** environments, building tools ranging from MicroPython GUIs to Vue/Nuxt web projects.
-* ⚙️ Fascinated by computer hardware, ARM architectures, and optimizing legacy processors.
-* 🎵 Fun fact: When I'm compiling kernels or writing code, I'm usually listening to *lasah* or *sasakure.UK*.
+* 一名来自北京的国际学校高中生
+* 写代码单纯因为觉得有意思
+* 喜欢计算机科学、物理学和数学
 
 ---
 
 ### 🧠 My Coding Philosophy
 
-* ⚙️ **"The kernel code should handle things without explicit purpose."**
-  True low-level code should execute seamlessly and naturally. Whether compiling Android kernels or handling system-level logic, the goal is elegant problem-solving without leaving behind forced or redundant traces.
+* 项目内核应该不带有任何目地客观地工作, 任何带有目的性的都不能算是内核
 
-* 🚫 **"Nesting is the worst evil when you're coding!"**
-  Keeping code flat and pure is essential. From developing lightweight Java plugins to writing automation scripts, I actively avoid deep nesting, replacing complex conditional blocks with clean, straightforward logic flows.
+* 在代码中肆意嵌套是一个很糟糕的事情
 
-* 📖 **"Code is like humor. When you *have* to explain it, it's bad."** — *Cory House*
-  Code itself is the best documentation. I am not a fast thinker, and I consider that a strength—I prefer taking the time to architect a stable, thoughtful, and highly self-explanatory structure rather than rushing to produce difficult-to-maintain spaghetti code.
+* "Code is like humor. When you *have* to explain it, it's bad." — *Cory House*
 
 ---
 
