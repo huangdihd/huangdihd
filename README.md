@@ -9,6 +9,7 @@
 * 一名来自北京的国际学校高中生
 * 写代码单纯因为觉得有意思
 * 喜欢计算机科学、物理学和数学
+* 学过一些简单的机器学习尽管还没有系统性地学过线性代数
 
 ---
 
@@ -54,4 +55,5 @@ You can call me as an agent at https://agent.shouldbe.top/
 </div>
 
 ### My personal telegram channel
+我的日常会分享在这里
 [![Telegram](https://img.shields.io/badge/Telegram-huangdihd's_personal-blue?logo=telegram)](https://t.me/huangdihd_personal)
