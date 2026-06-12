@@ -1,24 +1,28 @@
 <h1 align="center">Hi there, I'm huangdihd! 👋</h1>
-
 <p align="center">
+  A high schooler who likes to think he understands project design<br>
   一个自认为对项目设计有理解的高中生
 </p>
 
 ### 🛠️ About Me
 
-* 一名来自北京的国际学校高中生
-* 写代码单纯因为觉得有意思
-* 喜欢计算机科学、物理学和数学
-* 学过一些简单的机器学习尽管还没有系统性地学过线性代数
+* A high school student at an international school in Beijing<br>
+  一名来自北京的国际学校高中生
+* I write code simply because it's fun<br>
+  写代码单纯因为觉得有意思
+* Into computer science, physics, and math<br>
+  喜欢计算机科学、物理学和数学
+* Have dabbled in some basic machine learning, though I haven't systematically studied linear algebra yet<br>
+  学过一些简单的机器学习,尽管还没有系统性地学过线性代数
 
 ---
 
 ### 🧠 My Coding Philosophy
 
-* 项目内核应该不带有任何目地客观地工作, 任何带有目的性的都不能算是内核
-
-* 在代码中肆意嵌套是一个很糟糕的事情
-
+* The core of a project should just work, objectively and without any agenda of its own — anything built with an agenda doesn't qualify as the core<br>
+  项目内核应该不带有任何目的、客观地工作,任何带有目的性的都不能算是内核
+* Reckless nesting in code is a terrible thing<br>
+  在代码中肆意嵌套是一个很糟糕的事情
 * "Code is like humor. When you *have* to explain it, it's bad." — *Cory House*
 
 ---
@@ -55,5 +59,8 @@ You can call me as an agent at https://agent.shouldbe.top/
 </div>
 
 ### My personal telegram channel
+
+I share my day-to-day stuff here<br>
 我的日常会分享在这里
+
 [![Telegram](https://img.shields.io/badge/Telegram-huangdihd's_personal-blue?logo=telegram)](https://t.me/huangdihd_personal)
