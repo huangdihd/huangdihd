@@ -58,6 +58,10 @@ You can call me as an agent at https://agent.shouldbe.top/
   <img src="https://github.shouldbe.top/api?username=huangdihd&theme=tokyonight" alt="huangdihd's GitHub Streak" />
 </div>
 
+### My personal blog
+
+https://huangdihd.shouldbe.top/
+
 ### My personal telegram channel
 
 I share my day-to-day stuff here<br>
