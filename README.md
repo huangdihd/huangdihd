@@ -51,11 +51,12 @@
 
 ### Elsewhere · 在别处
 
-| | |
-|---|---|
-| **Blog** · 博客 | [huangdihd.shouldbe.top](https://huangdihd.shouldbe.top/) — projects, notes and essays<br>项目、学习笔记和随笔 |
-| **Agent** | [agent.shouldbe.top](https://agent.shouldbe.top/) — you can call me as an agent here<br>可以在这里把我当作 agent 调用 |
-| **Telegram** | [@huangdihd_personal](https://t.me/huangdihd_personal) — I share my day-to-day stuff here<br>我的日常会分享在这里 |
+- **Blog** · [huangdihd.shouldbe.top](https://huangdihd.shouldbe.top/) — projects, notes and essays<br>
+  博客：项目、学习笔记和随笔
+- **Agent** · [agent.shouldbe.top](https://agent.shouldbe.top/) — you can call me as an agent here<br>
+  可以在这里把我当作 agent 调用
+- **Telegram** · [@huangdihd_personal](https://t.me/huangdihd_personal) — I share my day-to-day stuff here<br>
+  我的日常会分享在这里
 
 ### Stats · 统计
 
